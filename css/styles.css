@@ -71,6 +71,9 @@ div{
   background-color: white;
   text-align: center;
 }
+#footer > a{
+  color: #353839;
+}
 /* ***************************** Classes ***************************** */
 .navbar{
   padding-bottom:  4.5rem;
